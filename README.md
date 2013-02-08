@@ -4,8 +4,9 @@ Knockout jQuery UI Autocomplete Bindings
 This script provides [Knockout][1] 2.0+ bindings for the [jQuery UI
 autocomplete][2] widget.
 
-*More to come...*
+Take a look at the code comments in knockout.autocomplete.js to get started.
 
+*More to come...*
 
 
 Maintained and Developed By
